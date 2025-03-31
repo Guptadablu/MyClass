@@ -9,5 +9,5 @@ git checkout feature1
 .
 .
 .
-<p> buttons</p>
+<p> button</p>
 <p>dropbox</p>
